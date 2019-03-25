@@ -7,4 +7,4 @@ After cloning the repository, run
 python Nonstationary_k-arm_Bandits.py
 ```
 
-So plot a graph of average reward over time.
+to plot a graph of average reward over time.
